@@ -1,3 +1,6 @@
+咨询ios系统请咨询  telegram：
+https://t.me/one00190
+
 # iOS Coruna 漏洞利用工具包网络安全分析报告
 
 | 项目 | 内容 |
