@@ -1,0 +1,13 @@
+﻿{
+    "scan_time":  "2026-10-02 08:59:09 UTC",
+    "score":  2,
+    "issues":  [
+                   "TLS cert error (gateway.push.apple.com): 使用“2”个参数调用“.ctor”时发生异常:“不知道这样的主机。”",
+                   "DNS mismatch (www.apple.com): possible hijack",
+                   "DNS failure: gateway.push.apple.com",
+                   "DNS mismatch (mesu.apple.com): possible hijack",
+                   "DNS mismatch (appleid.apple.com): possible hijack",
+                   "Unreachable: gateway.push.apple.com"
+               ],
+    "risk":  "CRITICAL"
+}
